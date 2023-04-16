@@ -29,6 +29,26 @@ var game = [
         name: "Destiny",
         img: "bungie.avif"
 
+    },
+    {
+        name: "Grand Theft Auto",
+        img: "gta.avif"
+    },
+    {
+        name: "Destiny 2: Lightfall",
+        img: "lightfall.avif"
+    },
+    {
+        name: "FIFA 23 Standart Edition",
+        img: "fifa23.avif"
+    },
+    {
+        name: "Dead Space",
+        img: "deadspace.avif"
+    },
+    {
+        name: "The Settlers",
+        img: "settlers.avif"
     }
 ];
 var result = "";
